@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "kumbhabhishekam-2026",
+    "title": "Kumbhabhishekam — 12th Anniversary",
+    "date": "2026-07-22",
+    "dateLabel": "July 22, 25 & 26, 2026",
+    "place": "Chinmaya Saraswati, Orange, CT",
+    "file": "kumbhabhishekam-2026.jpg",
+    "href": "https://docs.google.com/forms/d/e/1FAIpQLSde4vx2VMC7MtP4FKlZXguGuW0-byNWxweo5NgPRWSlTMFe6w/viewform",
+    "summary": "A twelve-year reconsecration of the temple — prayers, rituals, and the blessing of holy water, inviting the community to rededicate Chinmaya Saraswati.",
+    "featured": true
+  },
+  {
+    "slug": "gita-chanting-2026",
+    "title": "Geeta Chanting Yajna Regionals",
+    "date": "2026-04-26",
+    "dateLabel": "April 26, 2026",
+    "place": "UConn Stamford",
+    "file": "gita-chanting-2026.jpg",
+    "href": "/geeta-chanting",
+    "summary": "Open to all, including those who are not Chinmaya Mission members. Register, volunteer, and join the potluck.",
+    "featured": true
+  },
+  {
+    "slug": "bala-vihar-2026",
+    "title": "Bala Vihar & Satsang 2026–27",
+    "date": "2026-09-01",
+    "dateLabel": "Registration open",
+    "place": "Orange & Stamford",
+    "file": "bala-vihar-2026.jpg",
+    "href": "/bala-vihar/registration",
+    "summary": "Shishu Vihar, Bala Vihar, and Satsanga for the new session. Family membership $500; adults without children $300.",
+    "featured": true
+  }
+]

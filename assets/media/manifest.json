@@ -1,0 +1,20 @@
+{
+  "public/images/amrit-75.jpg": "8606e57e5441bccd0728992fcd241dccc923dc542fccd4fdcd7a0c94c003bbb7",
+  "public/images/bala-vihar-flyer.jpg": "571fec63abad10067c1042d677099e12d2296055f252a48f3bf806486f1c10a9",
+  "public/images/chinmaya75.png": "0bdb331f2e3297d7f5b8e131370c2e911d1803fc220183ce4ffc8271d53df3ce",
+  "public/images/chinmaya-photo1.jpg": "731aefcf53455ab1b3e67489b277dfaf6a4f1e171ccd4794a35ad9d541c1857d",
+  "public/images/favicon.jpg": "fdb5fc0338e1565652da2d84fb3ee72b0d98c173c1a897368d0c9107a1e975c9",
+  "public/images/gita-flyer.jpg": "6b38966c079b5424de7489209d14bd8a5f3e5caeb961d04248907a2afb64b497",
+  "public/images/gurudev-full.jpg": "c85fa3cb29a33d7a719dfeb82cba9afa1d85d601f595714067b4334c5fe0a949",
+  "public/images/gurudev.jpg": "dae9b4ed4196681c6e1aa919638f413f2116552ef80c3986fa6057ba2f73c7d9",
+  "public/images/kumbhabhishekam.jpg": "696954b8fd484c92f12bdfc68f8900da875cb0923b0e09889c8acfb8b7def6ef",
+  "public/images/logo.jpg": "69f6f46eb62a505f4adf16be01a6d37f0e2225029bfad53a7fc41b5f373b596f",
+  "public/images/paypal-qr.png": "43310fa2b0cc4313903a4173d1e3396fffcd826112eea96a08879547d99b7d46",
+  "public/images/priest.jpg": "b09c26aff40c0fee5884f3202dc97d88b17ec8ed9e98e3a1e9982393c712cf1b",
+  "public/images/temple-full.jpg": "731aefcf53455ab1b3e67489b277dfaf6a4f1e171ccd4794a35ad9d541c1857d",
+  "public/images/temple.jpg": "3a308f4361e4e3a255792e726ecbed3729df4aae934e3adc796533bd221d9f6a",
+  "public/flyers/bala-vihar-2026.jpg": "571fec63abad10067c1042d677099e12d2296055f252a48f3bf806486f1c10a9",
+  "public/flyers/gita-chanting-2026.jpg": "6b38966c079b5424de7489209d14bd8a5f3e5caeb961d04248907a2afb64b497",
+  "public/flyers/kumbhabhishekam-2026.jpg": "696954b8fd484c92f12bdfc68f8900da875cb0923b0e09889c8acfb8b7def6ef",
+  "src/app/icon.jpg": "69f6f46eb62a505f4adf16be01a6d37f0e2225029bfad53a7fc41b5f373b596f"
+}
